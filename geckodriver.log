@@ -1,0 +1,175 @@
+1666030442964	geckodriver	INFO	Listening on 127.0.0.1:64864
+1666030445984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64865" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tatiana\\AppData\\Local\\Temp\\rust_mozprofilerqWFSo"
+1666030446963	Marionette	INFO	Marionette enabled
+1666030446971	Marionette	INFO	Listening on port 64878
+Read port: 64878
+WebDriver BiDi listening on ws://127.0.0.1:64865
+1666030447085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tatiana\\AppData\\Local\\Temp\\rust_mozprofilerqWFSo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64865/devtools/browser/ffa97ea5-aac3-4887-9d43-c565e613c0de
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666030583959	Marionette	INFO	Stopped listening on port 64878
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666030586895	geckodriver	INFO	Listening on 127.0.0.1:49196
+1666030589954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49197" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tatiana\\AppData\\Local\\Temp\\rust_mozprofileBrRcaE"
+1666030590369	Marionette	INFO	Marionette enabled
+1666030590373	Marionette	INFO	Listening on port 49209
+Read port: 49209
+WebDriver BiDi listening on ws://127.0.0.1:49197
+1666030590461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tatiana\\AppData\\Local\\Temp\\rust_mozprofileBrRcaE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49197/devtools/browser/bbae69b3-34e0-4c1c-9727-49f80d24f49c
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666030654850	Marionette	INFO	Stopped listening on port 49209
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666030672666	geckodriver	INFO	Listening on 127.0.0.1:50117
+1666030675694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50118" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tatiana\\AppData\\Local\\Temp\\rust_mozprofiletShOwz"
+1666030676124	Marionette	INFO	Marionette enabled
+1666030676129	Marionette	INFO	Listening on port 50132
+Read port: 50132
+WebDriver BiDi listening on ws://127.0.0.1:50118
+1666030676214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tatiana\\AppData\\Local\\Temp\\rust_mozprofiletShOwz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50118/devtools/browser/ecaed787-857f-49f7-bd1f-bc6937231ec3
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S940283206%3A1666030679760748&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWpUPWdHKzARvHYEIKLtGLyAdTTJ0QhLtKEs_Gg3xdtJ9ALNfgnYJl4ZqfRM5RvLlEtJHvi5HQ line 701 > injectedScript line 2 > eval line 3026 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666030687189	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1666030708527	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript error: https://chat.google.com/u/0/frame?shell=6&origin=https://mail.google.com&pli=1#cb=gtn-roster-iframe-id&id=rooms&n=1&pt=7, line 1: SecurityError: Permission denied to access property "_frameReady" on cross-origin object
+JavaScript warning: https://www.google.com/js/bg/YGBXjHGFrvOS8X60wpRSOm_fLYxf6hdhmLaY3J7KaRQ.js line 2 > eval line 6871 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666030786922	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666030906366	Marionette	INFO	Stopped listening on port 50132
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 6008, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666030916449	geckodriver	INFO	Listening on 127.0.0.1:50816
+1666030919492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50817" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tatiana\\AppData\\Local\\Temp\\rust_mozprofilevTocSu"
+1666030919998	Marionette	INFO	Marionette enabled
+1666030920003	Marionette	INFO	Listening on port 50829
+Read port: 50829
+WebDriver BiDi listening on ws://127.0.0.1:50817
+1666030920133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tatiana\\AppData\\Local\\Temp\\rust_mozprofilevTocSu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50817/devtools/browser/3fda3f09-863a-478d-b494-4083e67f1451
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666030968529	Marionette	INFO	Stopped listening on port 50829
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666031018552	geckodriver	INFO	Listening on 127.0.0.1:51387
+1666031021603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51388" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tatiana\\AppData\\Local\\Temp\\rust_mozprofile1sYUKI"
+1666031022100	Marionette	INFO	Marionette enabled
+1666031022105	Marionette	INFO	Listening on port 51399
+Read port: 51399
+WebDriver BiDi listening on ws://127.0.0.1:51388
+1666031022215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tatiana\\AppData\\Local\\Temp\\rust_mozprofile1sYUKI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51388/devtools/browser/e502b91c-9360-4c84-b960-eca3f10cea35
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S973237166%3A1666031024951461&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWq1b-N_dYW_9OmYFTpmQGBLHtObnhIx3PgcY3rfd03_-gZHz16iuQyTW1BrvWGtCjIeW50N_g line 701 > injectedScript line 2 > eval line 7744 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1666031036368	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666031045369	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/YGBXjHGFrvOS8X60wpRSOm_fLYxf6hdhmLaY3J7KaRQ.js line 2 > eval line 5983 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://chat.google.com/u/0/frame?shell=6&origin=https://mail.google.com&pli=1#cb=gtn-roster-iframe-id&id=rooms&n=1&pt=7, line 1: SecurityError: Permission denied to access property "_frameReady" on cross-origin object
+1666031068405	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666031088767	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666038786741	Marionette	INFO	Stopped listening on port 51399
+[Parent 26424, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666038929841	geckodriver	INFO	Listening on 127.0.0.1:62267
+1666038932896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62268" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tatiana\\AppData\\Local\\Temp\\rust_mozprofileNYAFWH"
+1666038933247	Marionette	INFO	Marionette enabled
+1666038933250	Marionette	INFO	Listening on port 62279
+WebDriver BiDi listening on ws://127.0.0.1:62268
+Read port: 62279
+1666038933456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tatiana\\AppData\\Local\\Temp\\rust_mozprofileNYAFWH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62268/devtools/browser/61205b99-1346-4027-98c7-e50e4494ef3f
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666101432084	Marionette	INFO	Stopped listening on port 62279
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16052, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666101448033	geckodriver	INFO	Listening on 127.0.0.1:52665
+1666101451101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52666" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tatiana\\AppData\\Local\\Temp\\rust_mozprofile9cVEJu"
+1666101451397	Marionette	INFO	Marionette enabled
+1666101451401	Marionette	INFO	Listening on port 52680
+Read port: 52680
+WebDriver BiDi listening on ws://127.0.0.1:52666
+1666101451472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tatiana\\AppData\\Local\\Temp\\rust_mozprofile9cVEJu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52666/devtools/browser/bab34bc5-2d85-4074-a200-b8f5e7cdea4f
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?dsh=S889397025%3A1666101454313340&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQDHYWrPOUHAKNlzipjIS7n0h6oLen_mzLIDTtU3ON3plj567yrpMT2N8me4mo_gk_tW5KoB2LAsgg line 701 > injectedScript line 2 > eval line 3038 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1666101461289	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666101471143	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mail.google.com."
+JavaScript warning: https://www.google.com/js/bg/ZEudAwKmaTNpvGbgtwbUkI0ybKz2KwCtXmqAoF5myvk.js line 2 > eval line 3068 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666101491822	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
