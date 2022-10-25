@@ -183,3 +183,13 @@ WebDriver BiDi listening on ws://127.0.0.1:57075
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tatiana\\AppData\\Local\\Temp\\rust_mozprofileRv74o3\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:57075/devtools/browser/2a558075-758b-4909-8a4d-57faefa64a66
 JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666724752395	geckodriver	INFO	Listening on 127.0.0.1:58841
+1666724755479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58842" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tatiana\\AppData\\Local\\Temp\\rust_mozprofileQAb4MU"
+1666724755880	Marionette	INFO	Marionette enabled
+1666724755885	Marionette	INFO	Listening on port 58854
+Read port: 58854
+WebDriver BiDi listening on ws://127.0.0.1:58842
+1666724755971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tatiana\\AppData\\Local\\Temp\\rust_mozprofileQAb4MU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58842/devtools/browser/4434e1a1-bc9a-4ecf-9bea-cfc27e720596
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
